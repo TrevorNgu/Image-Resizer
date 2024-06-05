@@ -1,0 +1,3 @@
+/home/bark/ResizeIMG/CMakeFiles/main.dir
+/home/bark/ResizeIMG/CMakeFiles/edit_cache.dir
+/home/bark/ResizeIMG/CMakeFiles/rebuild_cache.dir
